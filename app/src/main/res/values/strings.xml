@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DataStructure</string>
+
+    <string name="default_array_length_10000">10000</string>
+    <string name="sort_input_hint">随机数组长度</string>
+    <string name="gen_array">生成数组</string>
+    <string name="start_sort">开始排序</string>
+    <string name="sort_array">数组排序</string>
+    <string name="sort_time">排序耗時：%d ms</string>
+    <string name="gen_array_time">生成数组耗時：%d ms</string>
+    <string name="quick_sort_txt">快速排序</string>
+    <string name="bubble_sort_txt">冒泡排序</string>
+    <string name="select_sort_txt">选择排序</string>
+    <string name="insert_sort_txt">插入排序</string>
+    <string name="merge_sort_txt">归并排序</string>
+    <string name="heap_sort_txt">堆排序</string>
+</resources>
